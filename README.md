@@ -1,5 +1,4 @@
 "# Recommendation-Engine" 
-Web app Link - [https://movie-recommender-engine-dk321.herokuapp.com/](https://recommendation-engine-dheeraj9599.streamlit.app/)
 
 # NOTE : 
 1. Run The Collaborative_Filtering(SVD and KNN) ipynb file on google collab only.
