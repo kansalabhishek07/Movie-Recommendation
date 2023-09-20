@@ -1,5 +1,3 @@
-"# Recommendation-Engine" 
-
 # NOTE : 
 1. Run The Collaborative_Filtering(SVD and KNN) ipynb file on google collab only.
 2. web.py is the Web app - To run it use New_data.pkl and matrix.pkl data
@@ -93,8 +91,6 @@ NOTE : Run The Collaborative_Filtering(SVD and KNN) ipynb file on google collab.
 
 
 Web App Images:
-
-![Screenshot (282)](https://user-images.githubusercontent.com/92773853/171160121-736a2fde-000d-4ebe-a0ae-3b1c087f5828.png)
 
 
 ![Screenshot (284)](https://user-images.githubusercontent.com/92773853/171160673-7d6418c2-2dcb-44a8-9c0e-74038a424324.png)
