@@ -138,7 +138,7 @@ with st.container():
     st.write("---")
     l_col, r_col = st.columns(2)
     with l_col:
-        st.subheader("Hello, my name is Dheeraj, :wave:")
+        st.subheader("Hello, my name is Akshay, :wave:")
         st.subheader("I am currently pursuing my B.Tech in Mathematics and Computing from Delhi Technological University.")
         st_lottie(welcome, height=150, key="Welcome" )
         st.header("To my website presenting the Movie Recommendation Engine")
@@ -361,7 +361,7 @@ with st.container():
 
     # Documention: https://formsubmit.co/
     contact_form = """
-    <form action="https://formsubmit.co/dk622537@gmail.com" method="POST">
+    <form action="https://formsubmit.co/239akshay01@gmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your name" required>
         <input type="email" name="email" placeholder="Your email" required>
