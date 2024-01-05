@@ -138,7 +138,7 @@ with st.container():
     st.write("---")
     l_col, r_col = st.columns(2)
     with l_col:
-        st.subheader("Hello, my name is Dheeraj, :wave:")
+        st.subheader("Hello, my name is Abhishek Kansal, :wave:")
         st.subheader("I am currently pursuing my B.Tech in Mathematics and Computing from Delhi Technological University.")
         st_lottie(welcome, height=150, key="Welcome" )
         st.header("To my website presenting the Movie Recommendation Engine")
